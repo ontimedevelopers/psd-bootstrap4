@@ -10,6 +10,9 @@ body{
 .bg-azul-claro{
 	background-color: #a9eee6;
 }
+a.bg-azul-claro:hover{
+	background-color: #477b75;
+}
 
 .bg-rosa{
 	background: #f38181;
@@ -74,4 +77,8 @@ background-size: cover;
 
 .iconos{
 	font-size: 2.25rem;
+}
+
+.form-control{
+	border: 1px solid rgba(0,0,0,0.5);
 }
