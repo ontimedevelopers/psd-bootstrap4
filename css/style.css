@@ -1,0 +1,77 @@
+body{
+	font-family: 'Roboto', sans-serif;	 
+	color: #444;
+}
+
+.bg-fondo-claro{
+	background-color: #fefaec;
+}
+
+.bg-azul-claro{
+	background-color: #a9eee6;
+}
+
+.bg-rosa{
+	background: #f38181;
+}
+
+.bg-morado{
+	background: #625772;
+}
+
+h1, h2, h3, h4, h5, h6 p{
+	font-family: 'Roboto', sans-serif;	 
+}
+h1{
+	font-size: 2.5rem;
+	font-weight: 600;
+}
+.h1{
+	font-weight: 300;
+}
+h2{
+	font-size: 2rem;
+	font-weight: 300;	
+}
+
+h3{
+	font-size: 1.75rem;
+	font-weight: 300;	
+}
+
+h4{
+	font-size: 1.5rem;
+	font-weight: 400;	
+}
+p{
+	font-weight: 300;
+}
+
+.card{
+	border: none;
+}
+
+.card-block .display-1{
+	font-size: 6.25rem;
+}
+
+.fondo{
+background: url('../img/fondo.jpg');
+height: 100vh;
+background-position: center;
+background-size: cover;
+}
+
+.fondo-2{
+	background: rgba(0,0,0,0.5);
+	height: 100vh;
+}
+
+.btn{
+	font-size: 1.25rem;
+	font-weight: 300;
+}
+
+.iconos{
+	font-size: 2.25rem;
+}
